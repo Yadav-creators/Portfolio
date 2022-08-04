@@ -28,6 +28,10 @@ a.about__social-icon:hover svg {
 .skills__name{
     cursor: pointer;
 }
+section#portfolio p {
+    text-align: center;
+    margin-bottom: 2rem;
+}
 @media screen and (min-width: 768px){
     :root{
         --big-font-size: 10.5rem;
@@ -383,7 +387,7 @@ img{
         padding-top: 4rem;
     }
     .section-title{
-        margin-bottom: 3rem;
+        margin-bottom: 1rem;
     }
     .section-title::after{
         width: 64px;
